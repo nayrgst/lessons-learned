@@ -7,12 +7,17 @@ body {
   overflow-x: hidden;
 }
 
-section {
+main {
   margin: 40px;
 }
 
 nav {
   margin: 10px;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
 }
 
 #cabecalho {
@@ -32,10 +37,6 @@ nav {
   height: 20rem;
   border-radius: 100%;
   background-size: contain;
-}
-
-#licoes {
-  margin: 40px;
 }
 
 #rodape {
