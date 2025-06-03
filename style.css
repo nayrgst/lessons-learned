@@ -31,3 +31,12 @@ section {
 #licoes {
   margin: 40px;
 }
+
+#rodape {
+  background-color: gray;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
